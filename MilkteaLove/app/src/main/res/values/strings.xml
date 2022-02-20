@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MilkTeaLove</string>
+
+    <string name="Tapioca_Pearls">
+        Tapioca\nPearls
+    </string>
+
+    <string name="Nata_De_Coco">
+        Nata De\nCoco
+    </string>
+
+    <string name="Fruit_Jelly">
+        Fruit\nJelly
+    </string>
+
+    <string name="Coffee_Jelly">
+        Coffee\nJelly
+    </string>
+
+    <string name="Cream_Cheese">
+        Cream\nCheese
+    </string>
+
+    <string name="Cream_Puff">
+        Cream\nPuff
+    </string>
+
+</resources>
